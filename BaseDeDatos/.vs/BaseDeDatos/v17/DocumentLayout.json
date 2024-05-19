@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\ticketesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\ticketesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\repositorio\\repositorioticketes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\repositorio\\repositorioticketes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\sucursalform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\sucursalform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:38:07.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioTicketes.cs",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:34:45.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketesIndex.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
+              "ViewState": "AQIAADEAAAAAAAAAAAAvwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T05:28:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SucursalForm.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T05:26:21.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoForm.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T05:26:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketesForm.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T05:19:31.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

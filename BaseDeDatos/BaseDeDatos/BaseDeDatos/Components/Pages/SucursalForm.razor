@@ -1,0 +1,72 @@
+﻿@page "/sucursal/nueva"
+@page "/sucursal/editar{Id:int}"
+@rendermode InteractiveServer
+@inject NavigationManager _navigator;
+@inject IRepositorioSucursal _repositorio;
+
+<h3>@_mensaje Sucursal</h3>
+
+<EditForm Model="_sucursal" FormName="fmrSucursal" OnValidSubmit="Guardar">
+    <DataAnnotationsValidator />
+    <div class="row mb-3">
+        <label for="txtNombre" class="col-2 col-form-label">Nombre</label>
+        <InputText id="txtNombre" class="form-control" @bind-Value="_sucursal.Nombre" />
+        <ValidationMessage For="()=>_sucursal.Nombre" />
+    </div>
+    <div class="row mb-3">
+        <label for="txtEstado" class="col-2 col-form-label">Estado</label>
+        <InputText id="txtEstado" class="form-control" @bind-Value="_sucursal.Estado" />
+        <ValidationMessage For="()=>_sucursal.Estado" />
+    </div>
+    <div class="row mb-3">
+        <label for="txtMunicipio" class="col-2 col-form-label">Municipio</label>
+        <InputText id="txtMunicipio" class="form-control" @bind-Value="_sucursal.Municipio" />
+        <ValidationMessage For="()=>_sucursal.Municipio" />
+    </div>
+    <div class="row mb-3">
+        <label for="txtDireccion" class="col-2 col-form-label">Direccion</label>
+        <InputText id="txtDireccion" class="form-control" @bind-Value="_sucursal.Direccion" />
+        <ValidationMessage For="()=>_sucursal.Direccion" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <button class="btn btn-danger ms-3" @onclick="Cancelar" @onclick:preventDefault>Cancelar</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    private string _mensaje = "";
+    private Sucursal? _sucursal = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (Id > 0)
+        {
+            _sucursal = await _repositorio.Get(Id);
+            _mensaje = "Modificar";
+        }
+        else
+        {
+            _mensaje = "Nueva";
+        }
+    }
+
+    private async void Guardar()
+    {
+        if (Id > 0)
+        {
+            await _repositorio.Update(Id, _sucursal!);
+        }
+        else
+        {
+            await _repositorio.Add(_sucursal!);
+        }
+        Cancelar();
+    }
+
+    private void Cancelar()
+    {
+        _navigator.NavigateTo("/sucursal");
+    }
+}

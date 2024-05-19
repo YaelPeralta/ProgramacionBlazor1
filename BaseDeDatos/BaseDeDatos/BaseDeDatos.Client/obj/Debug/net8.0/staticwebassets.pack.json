@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\9bt1rkdhoo.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaseDeDatos.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaseDeDatos.Client.props",
+      "PackagePath": "build\\BaseDeDatos.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaseDeDatos.Client.props",
+      "PackagePath": "buildMultiTargeting\\BaseDeDatos.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaseDeDatos.Client.props",
+      "PackagePath": "buildTransitive\\BaseDeDatos.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

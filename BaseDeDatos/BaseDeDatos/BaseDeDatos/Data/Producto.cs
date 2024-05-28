@@ -10,5 +10,8 @@ namespace BaseDeDatos.Data
         public string? Nombre { get; set; }
         [Required(ErrorMessage = "El precio es requerido")]
         public decimal Precio { get; set; }
+
+
+        virtual public ICollection<Ticket>? Tickets { get; set; }
     }
 }

@@ -1,105 +1,120 @@
 ﻿@page "/ticketes/nueva"
 @page "/ticketes/editar{id:int}"
-@inject IRepositorioTicketes RepositorioTicket
-@inject IRepositorioProducto RepositorioProducto
-@inject IRepositorioSucursal RepositorioSucursal
-@inject NavigationManager _navigator
+@rendermode InteractiveServer
+@inject IRepositorioTicketes _repositorioT;
+@inject IRepositorioProducto _repositorioP;
+@inject IRepositorioSucursal _repositorioS;
+@inject NavigationManager _navigator;
 
-<EditForm Model="ticket" OnValidSubmit="Guardar">
+<h3>@_mensaje Ticket</h3>
+
+<EditForm Model="_ticket" FormName="frmTicket" OnValidSubmit="Guardar">
     <DataAnnotationsValidator />
     <ValidationSummary />
 
     <div class="form-group">
         <label for="fecha">Fecha</label>
-        <InputDate id="fecha" class="form-control" @bind-Value="ticket.Fecha" />
+        <InputDate id="fecha" class="form-control" @bind-Value="_ticket.Fecha" />
     </div>
+
     <div class="form-group">
         <label for="sucursal">Sucursal</label>
-        <select id="sucursal" class="form-control" @bind="ticket.SucursalId">
-            @foreach (var sucursal in sucursales)
+        <select id="sucursal" class="form-control" @bind="_ticket.SucursalId">
+            <option value="">Seleccione una sucursal</option>
+            @foreach (var sucursal in _sucursales)
             {
                 <option value="@sucursal.SucursalId">@sucursal.Nombre</option>
             }
         </select>
     </div>
+
     <div class="form-group">
-        <label for="productos">Productos</label>
-        <select id="productos" class="form-control" @onchange="AddProducto">
-            <option value="">Seleccione un producto</option>
-            @foreach (var producto in productos)
-            {
-                <option value="@producto.ProductoId">@producto.Nombre - @producto.Precio</option>
-            }
-        </select>
-    </div>
-    <ul>
-        @foreach (var producto in ticket.Productos)
-        {
-            <li>@producto.Nombre - @producto.Precio <button @onclick="() => RemoveProducto(producto)">Eliminar</button></li>
-        }
-    </ul>
-    <div class="form-group">
-        <label for="costototal">Costo Total</label>
-        <input id="costototal" class="form-control" value="@ticket.CostoTotal" readonly />
+        <label for="txtProductos" class="col-2 col-form-label">Productos:</label>
+        <div class="col-10">
+            <InputSelect @bind-Value="_productoSeleccionados" multiple >
+                @foreach (Producto producto in _productos)
+                {
+                    <option value="@producto.ProductoId" @onclick="ActualizarPrecio">@producto.Nombre</option>
+                }
+            </InputSelect>
+        </div>
     </div>
 
-    <button type="submit" class="btn btn-primary">Guardar</button>
+    <div class="form-group">
+        <label for="costototal" type="number">Costo Total</label>
+        <input id="costototal" class="form-control" @bind-value="_ticket.CostoTotal" readonly />
+    </div>
+    <br />
+    <button class="btn-primary" type="submit">Guardar</button>
+    <button class="btn-danger" @onclick="Cancelar">Cancelar</button>
 </EditForm>
 
 @code {
-    [Parameter] public int? Id { get; set; }
-    private Ticket ticket = new Ticket();
-    private List<Producto> productos = new List<Producto>();
-    private List<Sucursal> sucursales = new List<Sucursal>();
-    private string FormName = "ticketForm";
+    [Parameter]
+    public int Id { get; set; }
+    private string _mensaje = "";
+    private Ticket? _ticket = new();
+    private List<Sucursal> _sucursales = new();
+    private List<Producto> _productos = new();
+    private int[] _productoSeleccionados = new int[] { };
 
     protected override async Task OnInitializedAsync()
     {
-        productos = await RepositorioProducto.GetAll();
-        sucursales = await RepositorioSucursal.GetAll();
-
+        _productos = await _repositorioP.GetAll();
+        _sucursales = await _repositorioS.GetAll();
         if (Id > 0)
         {
-            ticket = await RepositorioTicket.Get(Id.Value) ?? new Ticket();
+            _ticket = await _repositorioT.Get(Id);
+            if (_ticket.Productos.Count > 0)
+            {
+                _productoSeleccionados = _ticket.Productos.Select(i => i.ProductoId).ToArray();
+            }
+            _mensaje = "Modificar";
+        }
+        else
+        {
+            _mensaje = "Nuevo";
         }
     }
 
     private async void Guardar()
     {
+        if (_productoSeleccionados.Length > 0)
+        {
+            List<Producto> productos = new();
+            foreach (int idProducto in _productoSeleccionados)
+            {
+                productos.Add(_productos.First(r => r.ProductoId == idProducto));
+            }
+            _ticket.Productos = productos;
+        }
+
         if (Id > 0)
         {
-            await RepositorioTicket.Update(Id.Value, ticket);
+            await _repositorioT.Update(Id, _ticket!);
         }
         else
         {
-            await RepositorioTicket.Add(ticket);
+            await _repositorioT.Add(_ticket!);
         }
         Cancelar();
     }
 
-    private void AddProducto(ChangeEventArgs e)
-    {
-        var productoId = int.Parse(e.Value.ToString());
-        var producto = productos.FirstOrDefault(p => p.ProductoId == productoId);
-        if (producto != null)
-        {
-            ticket.Productos.Add(producto);
-            CalcularCostoTotal();
-        }
-    }
-
-    private void RemoveProducto(Producto producto)
-    {
-        ticket.Productos.Remove(producto);
-        CalcularCostoTotal();
-    }
-
-    private void CalcularCostoTotal()
-    {
-        ticket.CostoTotal = ticket.Productos.Sum(p => p.Precio);
-    }
     private void Cancelar()
     {
-        _navigator.NavigateTo("/ticketes");
+        _navigator.NavigateTo("/tickets");
+    }
+
+    public async Task ActualizarPrecio()
+    {
+        decimal valor = 0;
+
+        foreach (int id in _productoSeleccionados)
+        {
+            var producto = await _repositorioP.Get(id);
+            valor += producto.Precio;
+        }
+
+        _ticket.CostoTotal = valor;
     }
 }

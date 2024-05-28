@@ -32,14 +32,14 @@ namespace BaseDeDatos.Repositorio
         public async Task<Ticket?> Get(int id)
         {
             return await _context.Ticketes
-                .Include(t => t.Productos)
+                .Include(t => t.Productos).Include(t => t.Sucursal)
                 .FirstOrDefaultAsync(t => t.TicketId == id);
         }
 
         public async Task<List<Ticket>> GetAll()
         {
             return await _context.Ticketes
-                .Include(t => t.Productos)
+                .Include(t => t.Productos).Include(t => t.Sucursal)
                 .ToListAsync();
         }
 

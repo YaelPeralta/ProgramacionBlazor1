@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.ObjectModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace BaseDeDatos.Data
 {
@@ -20,6 +21,9 @@ namespace BaseDeDatos.Data
         [Required(ErrorMessage = "La direccion es requerido")]
         [StringLength(100, ErrorMessage = "Máximo 100 caracteres")]
         public string? Direccion {  get; set; }
+
+
+        virtual public ICollection<Ticket>? Tickets { get; set; }
 
     }
 }

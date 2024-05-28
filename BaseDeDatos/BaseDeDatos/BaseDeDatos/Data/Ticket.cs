@@ -1,16 +1,23 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using Microsoft.Identity.Client;
+using System.ComponentModel.DataAnnotations;
 
 namespace BaseDeDatos.Data
 {
     public class Ticket
     {
         public int TicketId { get; set; }
-        public DateTime Fecha { get; set; }
-        public int SucursalId { get; set; }
-        public Sucursal? Sucursal { get; set; }
-        public List<Producto> Productos { get; set; } = new List<Producto>();
+        [Required(ErrorMessage = "La fecha es requerida")]
+        public DateTime? Fecha { get; set; }
+        [Required(ErrorMessage = "El costo total es requerido")]
+        public decimal? CostoTotal { get; set; }
 
-        [NotMapped]
-        public decimal CostoTotal { get; set; }
+        //Uno a muchos
+        public int SucursalId { get; set; }
+        virtual public Sucursal? Sucursal { get; set; }
+
+        //Muchos a muchos
+        virtual public ICollection<Producto>? Productos { get; set; }
+
+
     }
 }

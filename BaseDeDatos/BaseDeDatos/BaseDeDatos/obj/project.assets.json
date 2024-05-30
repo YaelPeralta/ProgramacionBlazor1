@@ -4833,11 +4833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
+      "projectUniqueName": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
       "projectName": "BaseDeDatos",
-      "projectPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
+      "projectPath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
       "packagesPath": "C:\\Users\\yaelp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\obj\\",
+      "outputPath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4859,8 +4859,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {
-              "projectPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj"
+            "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {
+              "projectPath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj"
             }
           }
         }

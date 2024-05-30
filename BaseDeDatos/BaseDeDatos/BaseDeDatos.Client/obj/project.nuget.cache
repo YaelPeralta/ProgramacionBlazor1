@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ojqCRiCsdM0BRMjpJvDtRD0aDMPyD5QMuSlOB4iImUbz73TaRxeZBv3ivZueuG0nZggL+FyAcmyUqYmuJ+KCKg==",
+  "dgSpecHash": "G6BMqpVABDjQl5slsnfDvqh7roSfqdleJmgfbPGCa7YJxsbRqlsrPy++IIAp9g3Z0FyAVGHRFFt93r8Jx5pOtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
+  "projectFilePath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",

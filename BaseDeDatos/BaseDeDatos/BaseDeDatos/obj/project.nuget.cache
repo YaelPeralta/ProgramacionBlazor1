@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0o2rqd++QP23yTBGINwNV5ikKfiPztd5k8TSyHgVdQiFLg84ynIzVihMpS00507fXxcEoUm33IM7qZqv+gbag==",
+  "dgSpecHash": "1hN6lcRaCFzA6hpwVcsy+AjDDu5pF6IFB5zqwVjFYXwJVnDKeNnWEtNcVWt2dGs8BmXX0/n8eGwDCVr+OFhaOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
+  "projectFilePath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaelp\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

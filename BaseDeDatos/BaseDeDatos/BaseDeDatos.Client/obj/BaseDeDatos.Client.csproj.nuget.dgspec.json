@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {}
+    "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {
+    "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
+        "projectUniqueName": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
         "projectName": "BaseDeDatos.Client",
-        "projectPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
+        "projectPath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
         "packagesPath": "C:\\Users\\yaelp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\",
+        "outputPath": "C:\\Users\\yaelp\\Documents\\GitHub\\ProgramacionBlazor1\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

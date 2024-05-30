@@ -38,12 +38,7 @@ namespace BaseDeDatos.Migrations
                     b.Property<decimal>("Precio")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int?>("TicketId")
-                        .HasColumnType("int");
-
                     b.HasKey("ProductoId");
-
-                    b.HasIndex("TicketId");
 
                     b.ToTable("Productos");
                 });
@@ -89,8 +84,13 @@ namespace BaseDeDatos.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TicketId"));
 
-                    b.Property<DateTime>("Fecha")
-                        .HasColumnType("datetime2");
+                    b.Property<decimal?>("CostoTotal")
+                        .IsRequired()
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateOnly?>("Fecha")
+                        .IsRequired()
+                        .HasColumnType("date");
 
                     b.Property<int>("SucursalId")
                         .HasColumnType("int");
@@ -102,17 +102,25 @@ namespace BaseDeDatos.Migrations
                     b.ToTable("Ticketes");
                 });
 
-            modelBuilder.Entity("BaseDeDatos.Data.Producto", b =>
+            modelBuilder.Entity("ProductoTicket", b =>
                 {
-                    b.HasOne("BaseDeDatos.Data.Ticket", null)
-                        .WithMany("Productos")
-                        .HasForeignKey("TicketId");
+                    b.Property<int>("ProductosProductoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TicketsTicketId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductosProductoId", "TicketsTicketId");
+
+                    b.HasIndex("TicketsTicketId");
+
+                    b.ToTable("ProductoTicket");
                 });
 
             modelBuilder.Entity("BaseDeDatos.Data.Ticket", b =>
                 {
                     b.HasOne("BaseDeDatos.Data.Sucursal", "Sucursal")
-                        .WithMany()
+                        .WithMany("Tickets")
                         .HasForeignKey("SucursalId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -120,9 +128,24 @@ namespace BaseDeDatos.Migrations
                     b.Navigation("Sucursal");
                 });
 
-            modelBuilder.Entity("BaseDeDatos.Data.Ticket", b =>
+            modelBuilder.Entity("ProductoTicket", b =>
                 {
-                    b.Navigation("Productos");
+                    b.HasOne("BaseDeDatos.Data.Producto", null)
+                        .WithMany()
+                        .HasForeignKey("ProductosProductoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("BaseDeDatos.Data.Ticket", null)
+                        .WithMany()
+                        .HasForeignKey("TicketsTicketId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("BaseDeDatos.Data.Sucursal", b =>
+                {
+                    b.Navigation("Tickets");
                 });
 #pragma warning restore 612, 618
         }

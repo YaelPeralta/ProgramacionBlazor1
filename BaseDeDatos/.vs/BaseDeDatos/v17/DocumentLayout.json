@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\productoindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\productoindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\ticketesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\ticketesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\data\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\repositorio\\repositorioticketes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\repositorio\\repositorioticketes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\productoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|solutionrelative:basededatos\\basededatos\\components\\pages\\ticketesform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C6A636-E30B-49B2-A902-79B811909030}|BaseDeDatos\\BaseDeDatos\\BaseDeDatos.csproj|c:\\users\\yaelp\\onedrive\\4ta parcial\\programaci\u00F3n web\\basededatos\\basededatos\\basededatos\\components\\pages\\sucursalform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,31 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
-              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
-              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
-              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T05:38:07.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositorioTicketes.cs",
-              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
-              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
-              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
-              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T05:34:45.152Z"
+              "DocumentIndex": 1,
+              "Title": "ProductoIndex.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoIndex.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoIndex.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoIndex.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoIndex.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T22:26:03.514Z"
             },
             {
               "$type": "Document",
@@ -68,47 +60,70 @@
               "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
               "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
               "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesIndex.razor",
-              "ViewState": "AQIAADEAAAAAAAAAAAAvwEgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-19T05:28:06.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SucursalForm.razor",
-              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
-              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
-              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
-              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T05:26:21.796Z"
+              "DocumentIndex": 0,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Data\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:40:03.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "RepositorioTicketes.cs",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Repositorio\\RepositorioTicketes.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:34:45.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductoForm.razor",
               "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
               "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
               "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
               "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\ProductoForm.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T05:26:20.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T05:26:20.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TicketesForm.razor",
               "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
               "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
               "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
               "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\TicketesForm.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAsAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAHcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T05:19:31.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T05:19:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SucursalForm.razor",
+              "DocumentMoniker": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "RelativeDocumentMoniker": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "ToolTip": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programaci\u00F3n web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "RelativeToolTip": "BaseDeDatos\\BaseDeDatos\\Components\\Pages\\SucursalForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T05:26:21.796Z"
             }
           ]
         }

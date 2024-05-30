@@ -27,6 +27,7 @@ else
                 <th>Fecha</th>
                 <th>Sucursal</th>
                 <th>Costo Total</th>
+                <th>Producto</th>
                 <th>Acciones</th>
             </tr>
         </thead>
@@ -37,6 +38,14 @@ else
                     <td>@ticket.Fecha</td>
                     <td>@ticket.Sucursal.Nombre</td>
                     <td>@ticket.CostoTotal</td>
+                    <td>
+                        <ul>
+                            @foreach(Producto producto in ticket.Productos)
+                        {
+                            <li>@producto.Nombre</li>
+                        }
+                        </ul>
+                    </td>
                     <td>
                         <button class="btn btn-sm" @onclick="()=>Eliminar(ticket)">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">

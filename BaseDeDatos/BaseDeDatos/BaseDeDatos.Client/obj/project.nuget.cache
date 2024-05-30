@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qpPANq0hmzsUzBuCfdLEVxSh2D4M293zfqFclQnKtxMrvciv1LAfnURxt/PIniSQ0MB1ZTHDdVyNqCkvnL6BHQ==",
+  "dgSpecHash": "ojqCRiCsdM0BRMjpJvDtRD0aDMPyD5QMuSlOB4iImUbz73TaRxeZBv3ivZueuG0nZggL+FyAcmyUqYmuJ+KCKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\BaseDeDatos.Client.csproj",
   "expectedPackageFiles": [
@@ -27,12 +27,12 @@
     "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.jsinterop\\8.0.2\\microsoft.jsinterop.8.0.2.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
-    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
-    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
+    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\yaelp\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
+    "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

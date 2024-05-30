@@ -7,7 +7,7 @@ namespace BaseDeDatos.Data
     {
         public int TicketId { get; set; }
         [Required(ErrorMessage = "La fecha es requerida")]
-        public DateTime? Fecha { get; set; }
+        public DateOnly? Fecha { get; set; }
         [Required(ErrorMessage = "El costo total es requerido")]
         public decimal? CostoTotal { get; set; }
 

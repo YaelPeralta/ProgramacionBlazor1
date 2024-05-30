@@ -152,9 +152,9 @@ C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\Ba
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\scopedcss\bundle\BaseDeDatos.styles.css
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\scopedcss\projectbundle\BaseDeDatos.bundle.scp.css
-C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\BaseDeDa.84519025.Up2Date
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\BaseDeDatos.dll
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\refint\BaseDeDatos.dll
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\BaseDeDatos.pdb
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\BaseDeDatos.genruntimeconfig.cache
 C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\ref\BaseDeDatos.dll
+C:\Users\yaelp\OneDrive\4ta parcial\Programación web\BaseDeDatos\BaseDeDatos\BaseDeDatos\obj\Debug\net8.0\BaseDeDatos.csproj.CopyComplete

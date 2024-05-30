@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OYh6nXA5kVm/PQreiv0VhurohgC9WMaOADCU6hgrCtc=",
+  "Hash": "qYY9vwog/1O37Jyh7MxlpR5SO2TtTmS6jikU/Y9kfWg=",
   "Source": "BaseDeDatos",
   "BasePath": "_content/BaseDeDatos",
   "Mode": "Default",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.mkzi43atmn.js",
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.docv5aqics.js",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.mkzi43atmn.js",
+      "RelativePath": "_framework/dotnet.native.8.0.1.docv5aqics.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.5l87ncsvk2.js",
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.ide0qlf1op.js",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.5l87ncsvk2.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.1.ide0qlf1op.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4273,25 +4273,6 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Loader.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\2mp934274t.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\2poxold1nz.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -4501,26 +4482,7 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\5l87ncsvk2.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.5l87ncsvk2.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.5l87ncsvk2.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.5l87ncsvk2.js"
-    },
-    {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\5q5kxbckzj.gz",
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\5l8fou8uc9.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
@@ -4632,6 +4594,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\WindowsBase.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\7177rxibp6.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\74s9sy7lwk.gz",
@@ -4919,6 +4900,25 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.SecureString.wasm"
     },
     {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\b0fx033m5j.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\b1s823613c.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -5107,6 +5107,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\docv5aqics.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.1.docv5aqics.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.docv5aqics.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.docv5aqics.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\dvv64wmlg6.gz",
@@ -5527,25 +5546,6 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Concurrent.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\g4ismu0zv1.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\g5qoicx35x.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -5850,6 +5850,25 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm"
     },
     {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\ide0qlf1op.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.1.ide0qlf1op.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.ide0qlf1op.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.ide0qlf1op.js"
+    },
+    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\iekp53vqu1.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -5962,6 +5981,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\j2dqf8b2vz.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\j9ye95ref0.gz",
@@ -6192,6 +6230,25 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.wasm"
     },
     {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\l9qwykxnxn.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\lcnlf7z6wq.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -6266,25 +6323,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\mkzi43atmn.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.mkzi43atmn.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.mkzi43atmn.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.mkzi43atmn.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\mnhiwve3ay.gz",
@@ -6382,23 +6420,23 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\n8y0qhyjjt.gz",
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\n8xbsximdy.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\nas8h4hqw9.gz",
@@ -6838,44 +6876,6 @@
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.wasm"
     },
     {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\pyw51sj5oe.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\q5yv760y3c.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\r054lqwo3z.gz",
       "SourceId": "BaseDeDatos.Client",
       "SourceType": "Project",
@@ -6969,25 +6969,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\rkcnnxwy66.gz",
-      "SourceId": "BaseDeDatos.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\rkw6ang87d.gz",
@@ -7159,6 +7140,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\tpgqmd1u33.gz",
+      "SourceId": "BaseDeDatos.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\yaelp\\OneDrive\\4ta parcial\\Programación web\\BaseDeDatos\\BaseDeDatos\\BaseDeDatos.Client\\obj\\Debug\\net8.0\\compressed\\u3i6rs2c9s.gz",
